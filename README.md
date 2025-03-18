@@ -19,6 +19,7 @@ secure database interactions, and cryptographic mechanisms.
 |   |-- util/
 |   |   |-- DBConnection.java
 |   |   |-- SecurityUtil.java
+|   |   |-- JavaSecurityClass.java
 |   |-- web/
 |   |   |-- WEB-INF/
 |   |   |-- web.xml
